@@ -1,0 +1,6 @@
+{
+ "project_id" : "arc-test",
+ "conduit_uri" : "https://phabricator.dev.oanda.com",
+ "jira_api_url" : "https://oandacorp.atlassian.net/",
+ "jira_project" : "TEST"
+}
